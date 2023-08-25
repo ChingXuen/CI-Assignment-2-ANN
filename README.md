@@ -1,2 +1,2 @@
 # CI Assignment 2 ANN
- CI Assignment 2 ANN - Breast Cancer Prediction
+Breast Cancer Prediction using ANN (dataset obtained from Kaggle)
